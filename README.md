@@ -5,25 +5,25 @@ Este sistema automatiza la detección de ofertas aéreas utilizando AWS.
 ## 📸 Evidencias Principales
 
 ### 1. Arquitectura del Sistema
-![Arquitectura](evidencias/Diagrama%20AWS.png)
+![Arquitectura](<evidencias/Diagrama AWS.png>)
 
 ### 2. Roles y Permisos (IAM)
-![Seguridad](evidencias/se%20agregan%20los%20permisos.png)
+![Seguridad](<evidencias/se agregan los permisos.png>)
 
 ### 3. Base de Datos en DynamoDB
-![Datos](evidencias/tablas%20pobladas.png)
+![Datos](<evidencias/tablas pobladas.png>)
 
 ### 4. Función Lambda (Lógica en Python)
-![Lambda](evidencias/escribimos%20la%20funci%C3%B3n%20lambda.png)
+![Lambda](<evidencias/escribimos la función lambda.png>)
 
 ### 5. Automatización (EventBridge)
-![Reloj](evidencias/trigger%20y%20conexi%C3%B3n%20verificados.png)
+![Reloj](<evidencias/trigger y conexión verificados.png>)
 
 ### 6. Correo Electrónico Recibido (SES)
-![Resultado](evidencias/mostrando%20correos%20SES.png)
+![Resultado](<evidencias/mostrando correos SES.png>)
 
-### 7. correo Electronico recibido (SNS y SES)
-![Resultado](evidencias/correo%20llegando%20tanto%20SNS%20y%20SES.png)
+### 7. Correo Electrónico recibido (SNS y SES)
+![Resultado](<evidencias/correo llegando tanto SNS y SES.png>)
 
 ### 8. Análisis de Costos ($0.06 USD)
-![Costos](evidencias/costo%20estimado.png)
+![Costos](<evidencias/costo estimado.png>)
