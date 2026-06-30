@@ -1,6 +1,8 @@
-# ✈️ Proyecto: Monitor de Precios Avianca (Serverless)
+# ✈️ Proyecto: ✈️ AWS Serverless Flight Price Alert System
 
-Este sistema automatiza la detección de ofertas aéreas utilizando servicios de AWS. La arquitectura está diseñada para ser escalable y de bajo costo.
+This project is a serverless solution built on Amazon Web Services (AWS) that monitors simulated flight prices and automatically sends email notifications when a lower fare is detected.
+
+The application uses an event-driven architecture powered by Amazon EventBridge, AWS Lambda, Amazon DynamoDB, Amazon SNS and Amazon SES, providing a scalable, low-cost and fully managed cloud solution without the need to manage servers.
 
 ## 📸 Evidencias del Proyecto
 
