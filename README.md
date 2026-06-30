@@ -292,7 +292,7 @@ Amazon EventBridge automatically triggers the Lambda function according to the c
 
 ## 📧 Amazon SES
 
-![SES](Evidencias/mostrando correos SES.png)
+![SES](Evidencias/_mostrando_correos_SES.png)
 
 Amazon SES is configured to send email notifications when a lower flight price is detected.
 
@@ -300,7 +300,7 @@ Amazon SES is configured to send email notifications when a lower flight price i
 
 ## 📢 Amazon SNS
 
-![SNS](Evidencias/correo_llegando_tanto_SNS_y_SES.png)
+![SNS](Evidencias/correos_llegando_tanto_SNS_y_SES.png)
 
 Amazon SNS publishes notification events before the email is delivered through Amazon SES.
 
