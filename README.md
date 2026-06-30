@@ -54,10 +54,6 @@ The following AWS services are integrated to build the complete solution:
 | Amazon SES | Sends email alerts to subscribed users. |
 | AWS IAM | Manages permissions and secure access between AWS services. |
 
-## 📐 Architecture Diagram
-
-> The complete architecture diagram will be added in the next section.
-
 ---
 
 # 🚀 Key Features
