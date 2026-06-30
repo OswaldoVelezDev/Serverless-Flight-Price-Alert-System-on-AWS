@@ -58,6 +58,21 @@ The following AWS services are integrated to build the complete solution:
 
 > The complete architecture diagram will be added in the next section.
 
+---
+
+# 🚀 Key Features
+
+- ✅ Fully serverless architecture built on Amazon Web Services (AWS).
+- 📅 Automated execution using Amazon EventBridge scheduled rules.
+- ⚡ Event-driven workflow with AWS Lambda.
+- 🗄️ Flight and user information stored in Amazon DynamoDB.
+- 📧 Automatic email notifications using Amazon SES.
+- 📢 Event publishing through Amazon SNS.
+- 🔐 Secure access management using AWS IAM roles and policies.
+- 📈 Scalable solution without server management.
+- 💰 Cost-efficient architecture based on AWS managed services.
+- 🐍 Developed in Python using the AWS SDK (Boto3).
+
 ## 📸 Evidencias del Proyecto
 
 Haga clic en los siguientes enlaces para ver las capturas de pantalla del despliegue técnico:
