@@ -317,11 +317,38 @@ The repository also includes more than **30 deployment screenshots** documenting
 👉 **[Ver todas las evidencias técnicas (30 capturas)](./Evidencias/)**
 
 ---
+---
 
-## 🛠️ Tecnologías Utilizadas
-- **Lenguaje:** Python 3.x
-- **Servicios Cloud:** AWS Lambda, DynamoDB, SES, SNS, EventBridge.
-- **Seguridad:** IAM Roles con políticas de mínimo privilegio.
+# 📈 Results & Impact
+
+The project successfully demonstrates the implementation of a fully serverless solution using AWS managed services.
+
+## Achievements
+
+- ✅ Designed and deployed a complete event-driven architecture on AWS.
+- ✅ Automated flight price monitoring using Amazon EventBridge.
+- ✅ Implemented business logic with AWS Lambda.
+- ✅ Stored monitoring data using Amazon DynamoDB.
+- ✅ Published notification events through Amazon SNS.
+- ✅ Sent automated email notifications using Amazon SES.
+- ✅ Applied IAM roles and permissions following AWS security best practices.
+- ✅ Validated the complete workflow through end-to-end testing.
+
+## Skills Demonstrated
+
+- Serverless Architecture
+- Event-Driven Design
+- Cloud Computing
+- AWS Managed Services
+- Python Development
+- Infrastructure Integration
+- Cloud Security Fundamentals
+- Technical Documentation
+
+## 🛠️ technologies used
+- **language:** Python 3.x
+- **Services Cloud:** AWS Lambda, DynamoDB, SES, SNS, EventBridge.
+- **Security:** IAM Roles con políticas de mínimo privilegio.
 
 - [📄 Descargar Documentación completa en pdf](./Documentacion_Tecnica_Avianca.pdf)
 
