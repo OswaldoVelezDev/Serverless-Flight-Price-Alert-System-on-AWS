@@ -73,6 +73,48 @@ The following AWS services are integrated to build the complete solution:
 - 💰 Cost-efficient architecture based on AWS managed services.
 - 🐍 Developed in Python using the AWS SDK (Boto3).
 
+  ---
+
+# 🛠️ Technologies Used
+
+| Category | Technology |
+|-----------|------------|
+| Programming Language | Python 3 |
+| Cloud Provider | Amazon Web Services (AWS) |
+| Compute | AWS Lambda |
+| Event Management | Amazon EventBridge |
+| Database | Amazon DynamoDB |
+| Messaging | Amazon Simple Notification Service (SNS) |
+| Email Service | Amazon Simple Email Service (SES) |
+| Identity & Security | AWS Identity and Access Management (IAM) |
+| SDK | Boto3 |
+| Architecture | Serverless, Event-Driven |
+
+---
+
+# 📂 Project Structure
+
+```text
+aws-serverless-flight-price-alert
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── lambda_function.py
+├── Documentacion_Tecnica.pdf
+│
+├── Evidencias/
+│   ├── EventBridge Configuration
+│   ├── Lambda Function
+│   ├── DynamoDB Table
+│   ├── SNS Topic
+│   ├── SES Configuration
+│   ├── Email Notification
+│   └── AWS Console Screenshots
+│
+└── Additional Project Files
+```
+
 ## 📸 Evidencias del Proyecto
 
 Haga clic en los siguientes enlaces para ver las capturas de pantalla del despliegue técnico:
