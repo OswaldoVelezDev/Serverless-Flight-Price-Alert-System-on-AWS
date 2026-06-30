@@ -318,6 +318,8 @@ AWS Cost Explorer was used to estimate the monthly operational cost of the solut
 
 The repository also includes more than **30 deployment screenshots** documenting each configuration step performed during the implementation of the project.
 
+👉 **[Ver todas las evidencias técnicas (30 capturas)](./Evidencias/)**
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
@@ -327,9 +329,5 @@ The repository also includes more than **30 deployment screenshots** documenting
 
 - [📄 Descargar Documentación completa en pdf](./Documentacion_Tecnica_Avianca.pdf)
 
-## 🛠️ Galería Técnica Completa
-Para revisar el despliegue detallado de los 30 pasos de configuración, puede acceder directamente a la carpeta de evidencias:
-
-👉 **[Ver todas las evidencias técnicas (30 capturas)](./Evidencias/)**
 ---
 *© 2026 Oswaldo Velez - cloud architect*
